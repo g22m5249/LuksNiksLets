@@ -1,15 +1,15 @@
-import java.awt.*;
-import java.awt.event.*;
-import java.util.*;
-import javax.swing.*;
+import java.awt.*; // (graphic class) import the native platform (operating systems) subroutine for creating API components
+import java.awt.event.*; // Provides interfaces and classes for dealing with different types of events fired by AWT components
+import java.util.*; //  import a class from existing packages
+import javax.swing.*; // import the packages which has inbuild classes so that you can build you GUI project
 
 
 
 public class TicTacToe implements ActionListener{
 
-	Random random = new Random();
-	JFrame frame = new JFrame();
-	JPanel title_panel = new JPanel();
+	Random random = new Random(); // initialise the random class
+	JFrame frame = new JFrame(); // creating graphical Java applications
+	JPanel title_panel = new JPanel(); // provides space in which an application can attach any other component 
 	JPanel button_panel = new JPanel();
 	JLabel textfield = new JLabel();
 	JButton[] buttons = new JButton[9];
