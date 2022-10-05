@@ -2,9 +2,9 @@
 To create a tic tac toe game
 Group name: [Runtime Terror]
 
-Group members: [LuKHANYO makoali , Lethukuthula Madlala , Charlotte Mkhabela]
+Group members: [Lukhanyo makoali , Lethukuthula Madlala , Charlotte Mkhabela]
 
-Group mentor: [Kudzai Maziri]
+Group mentor: [Stha Lushaba]
 
 Project title: [Tic Tac Toe Game ]
 
